@@ -23,3 +23,18 @@ Project to learn to collavorate with other colleagues on a remote project.
 - VisualBox
 - VS Code
 - GitHub
+
+##Installing:
+- Download VirtualBox
+- Create an account in GitHub
+
+##Built with:
+Linux Mint
+
+#Authors:
+- Anabel
+- Ana
+
+#License:
+- None
+
